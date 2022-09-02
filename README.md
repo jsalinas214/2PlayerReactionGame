@@ -4,8 +4,8 @@
 
 The objective of this game is to determine who reacts quicker, you or your opponent? (2 Players are rrequierd to play this game fairly.) Once both players are ready, begin by pressing the "go" button. Once the game begins, the spinner will appear and rotate until a random time has been met. Once the timer has completed, a message will pop up. The first player to press their key will be declared the winner.
 
-Player 1 uses the "a" key.
-Player 2 usses the "l" key.
+Player 1 uses the "A" key.
+Player 2 usses the "L" key.
 
 
 
